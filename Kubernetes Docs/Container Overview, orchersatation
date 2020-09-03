@@ -1,3 +1,5 @@
 Image vs Container:
 
 Image is a package or template which is used to create one or more containers.
+
+Container are the running instances of images that are isolated and that have own environments and set of processes.
