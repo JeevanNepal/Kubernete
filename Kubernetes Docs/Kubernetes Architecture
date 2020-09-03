@@ -7,3 +7,7 @@ A cluster is a set of nodees grouped together.
 kubectl: kube control:
 It is used t odeploy and manager applications on kubernetes cluster to get cluster informations, to get the status
  of the other nodes in the cluster and manager many other stuffs.
+
+ kubectl cluster info: to get all the info  about the cluster.
+
+ kubectl get nodes: It lists all the nodes parts of the cluster.
