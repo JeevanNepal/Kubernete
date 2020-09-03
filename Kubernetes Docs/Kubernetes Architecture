@@ -1,0 +1,2 @@
+Nodes:
+A nodes is a machine on which kubernetes is installed. It is a worker machine on which kubernetes launches containers.
