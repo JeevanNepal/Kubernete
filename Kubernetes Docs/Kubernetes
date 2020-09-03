@@ -5,3 +5,16 @@ It was originally designed by Google and is now maintained by the Cloud Native C
 It is one for the most popular and widely used container orchestration technologies.
 
 
+Advantages of Kubernetes
+1. Using Kubernetes and its huge ecosystem can improve your productivity.
+2. Kubernetes and a cloud-native tech stack attracts talent.
+3. Kubernetes is a future proof solution.
+4. Kubernetes helps to make your application run more stable.
+5. Kubernetes can be cheaper than its alternatives.
+
+
+Drawbacks of Kubernetes
+1. Kubernetes can be an overkill for simple applications.
+2. Kubernetes is very complex and can reduce productivity.
+3. The transition to Kubernetes can be cumbersome.
+4. Kubernetes can be more expensive than its alternatives.
