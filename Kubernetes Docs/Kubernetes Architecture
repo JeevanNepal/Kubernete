@@ -2,7 +2,7 @@ Nodes:
 A nodes is a machine on which kubernetes is installed. It is a worker machine on which kubernetes launches containers.
 
 
-A cluster is a set of nodees grouped together.
+A cluster is a set of nodes grouped together.
 
 kubectl: kube control:
 It is used t odeploy and manager applications on kubernetes cluster to get cluster informations, to get the status
